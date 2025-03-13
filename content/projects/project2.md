@@ -1,8 +1,8 @@
 +++
 authors = ["Marc Faulise"]
 title = "Educare"
-date = "2009-01-01"
-description = "Education Test Automation and Reporting Portal"
+date = "2010-06-01"
+description = "An Interactive Book for Children"
 tags = [
     "project",
     "education",
@@ -13,6 +13,7 @@ tags = [
 categories = [
     "project",
     "consulting",
+    "education",
 ]
 series = ["Projects"]
 +++
@@ -21,9 +22,10 @@ series = ["Projects"]
 
 ## Bookmaker
 
-This was an exciting project aimed at younger children. The application was
-an interactive book where the children would place stickers and draw on the 
-pages of an electronic book.
+This was an exciting project aimed at young children. The application was
+an interactive book in which the children would place stickers and draw on the 
+pages. This allowed them to be creative and express themselves in a unique
+and satisfying way.
 
 ## Role
 

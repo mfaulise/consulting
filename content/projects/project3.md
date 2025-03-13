@@ -1,6 +1,6 @@
 +++
 authors = ["Marc Faulise"]
-title = "Facebook Group App"
+title = "Client 2"
 date = "2011-01-01"
 description = "A Facebook Group App"
 tags = [
@@ -9,10 +9,14 @@ tags = [
     "startup",
     "development",
     "services",
+    "python",
+    "mysql",
+    "mongodb",
 ]
 categories = [
     "project",
     "consulting",
+    "social",
 ]
 series = ["Projects"]
 +++
@@ -33,6 +37,6 @@ integrations, and user interactions.
 ## Technologies
 
 * Python
-* MySQL
+* MySQL/MongoDB
 * Linux
 * Bash
