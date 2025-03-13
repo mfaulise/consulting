@@ -1,6 +1,6 @@
 +++
 authors = ["Marc Faulise"]
-title = "Client 2"
+title = "Facebook Group App"
 date = "2011-01-01"
 description = "A Facebook Group App"
 tags = [
@@ -16,8 +16,6 @@ categories = [
 ]
 series = ["Projects"]
 +++
-
-# Client 2
 
 **2011-2012**
 
