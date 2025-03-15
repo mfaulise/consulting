@@ -20,8 +20,6 @@ series = ["Projects"]
 
 **2020-2023**
 
-## Iris Booth
-
 Iris Booth provides photo booth installations for security and corporate events.
 They build the hardware used on location and the software through which the users
 can get access to their photos.

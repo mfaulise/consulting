@@ -18,8 +18,6 @@ series = ["Projects"]
 
 **2024**
 
-## Molecular You
-
 [Molecular You](https://www.molecularyou.com/) is a platform to allow
 users to submit samples for analysis and review the results. They
 examine a key set of bio-markers that generate a health score and

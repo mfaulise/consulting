@@ -20,8 +20,6 @@ series = ["Projects"]
 
 **2023-2025**
 
-## Juniper
-
 Juniper is a platform for Home Owners and Builders to organize the activities
 around transfer of ownership and warranty. It manages walk-thrus,
 documentation, warranty periods, and service requests.

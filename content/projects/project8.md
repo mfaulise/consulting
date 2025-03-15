@@ -22,8 +22,6 @@ series = ["Projects"]
 
 **2022-2025**
 
-## Patient Signs
-
 [Patient Signs](https://www.patientsigns.com/) builds a platform to deliver
 up-to-the-minute medical details to e-ink signs. These signs are installed at
 patient beds, rooms and in other critical areas. The goal is to replace the

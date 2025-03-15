@@ -20,8 +20,6 @@ series = ["Projects"]
 
 **2021-2022**
 
-## Aural Analytics
-
 [Aural Analytics](https://auralanalytics.com/) offers a platform that
 leverages AI to analyze speech patterns aiding in the early detection
 of neurological disorders such as Parkinson's, ALS, and Alzheimer's.
