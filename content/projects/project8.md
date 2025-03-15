@@ -8,8 +8,10 @@ tags = [
     "development",
     "direction",
     "tech-debt",
+    "devops",
     "testing",
     "mentoring",
+    "healthcare",
 ]
 categories = [
     "project",
@@ -23,24 +25,24 @@ series = ["Projects"]
 ## Patient Signs
 
 [Patient Signs](https://www.patientsigns.com/) builds a platform to deliver
-up-to-the-minute medical details to e-ink signs that can be installed at
+up-to-the-minute medical details to e-ink signs. These signs are installed at
 patient beds, rooms and in other critical areas. The goal is to replace the
-manual and error prone system which requires healthcare workers to update
-signage as patient information changes.
+manual and error prone system which requires healthcare workers to physically
+update signage as patient information changes.
 
 ## Role
 
-I was brought onto this project as a DevOps and Software engineer. My
+I was brought on this project as a DevOps and Software engineer. My
 original objectives included learning and evaluating the existing software
-for maintainability, extensibility, scalability and stability. After 
+for maintainability, extensibility, scalability and stability. After
 my appraisal, the decision was reached to completely rewrite the software.
-It is very rare that I will encourage this approach, but unfortunately, it 
+It is very rare that I will encourage this approach, but unfortunately, it
 was the only safe path forward for the organization.
 
 I planned and staffed the rewrite initiative. I set the direction and let
 the engineer responsible run with it. At the same time, I coordinated with
 Hospital IT to build and manage onsite instances that would run our software.
-I built tooling for building, deploying, testing and operating third-party 
+I built scripts for building, deploying, testing and operating third-party
 services. I created IaC (Infrastructure as Code) projects for managing
 users, security, and other resources in our cloud environments. I built
 script for backing up and restoring our services as well. And finally, I
@@ -51,7 +53,7 @@ planned our observability strategy.
 * C#/.net
 * Windows Server
 * Linux
-* Docker
+* Docker (and Compose)
 * SQL Server
 * Bash
 * AWS
@@ -63,5 +65,5 @@ The project rewrite was extremely successful. We had feature parity in weeks
 and we were deploying in the second month. We experienced some difficulty with
 the deployment but were able to resolve it quickly.
 
-The team was working very well together, but due to circumstances outside our 
+The team worked very well together, but due to circumstances outside our
 control, funding for the project was pulled.

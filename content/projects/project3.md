@@ -25,13 +25,13 @@ series = ["Projects"]
 
 ## Facebook Group Project
 
-This project leveraged Facebook groups and allowed them to directly interact
-with other groups. The goal was to give Facebook users a forum for social
-activism a place to engage in important dialogues.
+This project leveraged Facebook groups and allowed members to interact
+with rival groups. The goal was to give Facebook users a forum for social
+activism and a place to engage in important dialogues.
 
 ## Role
 
-My role to act as a backend developer and help build the APIs, Facebook 
+On this project I was a backend developer. I helped build the APIs, Facebook
 integrations, and user interactions.
 
 ## Technologies

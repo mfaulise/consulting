@@ -7,7 +7,7 @@ tags = [
     "project",
     "development",
     "direction",
-    "tech-debt",
+    "devops",
     "testing",
     "mentoring",
 ]
@@ -23,12 +23,12 @@ series = ["Projects"]
 ## Juniper
 
 Juniper is a platform for Home Owners and Builders to organize the activities
-around transfer of ownership and warranty. It manages walk-thrus, 
+around transfer of ownership and warranty. It manages walk-thrus,
 documentation, warranty periods, and service requests.
 
 The platform was created by a passionate entrepreneur in Vancouver that saw
-the need for better tools in this area. He employed a solutions firm to build his
-vision, but the resulting platform was full of problems:
+the need for better tools in this area. He employed a solutions firm to build
+his vision, but the resulting platform was full of problems:
 
 * There were a significant number of defects
 * Defects were taking months to correct
@@ -37,8 +37,8 @@ vision, but the resulting platform was full of problems:
 
 ## Role
 
-I was contracted to help Juniper become independent from the original 
-developers. This was tricky for a number of reasons. 
+I was contracted to help Juniper become independent from the original
+developers. This was tricky for a number of reasons.
 
 * Short timeline
 * No developer support
@@ -54,6 +54,7 @@ This was our approach:
 * Notify customers of scheduled maintenance
 * Preform the migration and test in `maintenance-mode`
 * If everything is successful, update the top level domains
+* Exit `maintenance-mode`
 
 ## Technologies
 
@@ -65,7 +66,7 @@ This was our approach:
 
 ## Outcome
 
-We had three weeks to complete the migration. It took six. While we 
+We had three weeks to complete the migration. It took six. While we
 were successful, there were a number of hitches along there way where
 our automation wasn't as complete as we needed it to be.
 

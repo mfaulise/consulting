@@ -23,7 +23,7 @@ series = ["Projects"]
 ## Bookmaker
 
 This was an exciting project aimed at young children. The application was
-an interactive book in which the children would place stickers and draw on the 
+an interactive book in which the children would place stickers and draw on the
 pages. This allowed them to be creative and express themselves in a unique
 and satisfying way.
 
@@ -31,7 +31,7 @@ and satisfying way.
 
 I built this application from the ground up using Flash and Action Script 3.
 It was my first experience with Flash and I was impressed with how much I could
-accomplish. 
+accomplish.
 
 ## Technologies
 

@@ -22,14 +22,14 @@ series = ["Projects"]
 
 ## Aural Analytics
 
-[Aural Analytics](https://auralanalytics.com/) offers a platform that 
-leverages AI to analyze speech patterns that can aid in the early detection
+[Aural Analytics](https://auralanalytics.com/) offers a platform that
+leverages AI to analyze speech patterns aiding in the early detection
 of neurological disorders such as Parkinson's, ALS, and Alzheimer's.
 
 ## Role
 
-I was brought on the project with the directive to help the Data Scientists
-author professional code. There was a small team of highly talented
+I was brought on the project with the directive to help the Data Science
+team author professional code. There was a small team of highly talented
 Data Scientists that were writing Python scripts for data processing and
 models for speech analysis. Senior Leadership felt that there was an
 excellent opportunity for improvement in the team by learning some of the
@@ -41,13 +41,13 @@ techniques I teach such as:
 - Working with Legacy Code
 
 This was a small organization and many of the other programmers expressed
-a strong desire to learn as well. So, we rolled out several learning 
+a strong desire to learn as well. So, we rolled out several learning
 programs.
 
 ## Technologies
 
-* Python
-* Unit Testing
+- Python
+- Unit Testing
 
 ## Outcome
 
@@ -58,5 +58,5 @@ job satisfaction.
 
 Since working with them, some have approached me outside Aural Analytics
 to continue learning. Together, we started my first non-work mentoring
-program. It is designed for students and professionals that do not have 
+program. It is designed for students and professionals that do not have
 their own teams with whom to learn and study. It has been very successful.

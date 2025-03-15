@@ -21,15 +21,15 @@ series = ["Projects"]
 
 ## Educare Test Platform
 
-This project built a platform to receive, grade, and correlate test
-results from standardized tests across Mexico. The platform allowed teachers
-to upload tests, recorded the results, and presented detailed 
-reports. User roles such as administrators, teachers, and students allowed
-for tailored access to the data and reports.
+Developed a comprehensive platform to manage standardized test results across
+Mexico. The platform enabled teachers to upload test data, automated result
+recording, and provided detailed performance reports. User roles — including
+administrators, teachers, and students — ensured tailored access to relevant
+data and insights.
 
 ## Role
 
-I built both the frontend and the backend of the platform. I also managed the 
+I built both the frontend and the backend of the platform. I also managed the
 databases and built the installation and configuration software.
 
 ## Technologies
