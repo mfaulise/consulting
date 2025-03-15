@@ -14,7 +14,6 @@ categories = [
     "consulting",
 ]
 series = ["Projects"]
-draft = true
 +++
 
 **2024**
