@@ -56,7 +56,7 @@ important, which is where training becomes invaluable.
 - System and process analysis
 - Planning and scoping
 - Software development in C#, Python, Ruby, Bash, and more
-- DevOps - Terraform/Terragrunt and AWS, Azur,e and GCP
+- DevOps - Terraform/Terragrunt and AWS, Azure, and GCP
 
 **Technologies**: AWS, Azure, and GCP. C#, Python, Terraform/grunt and more
 
@@ -127,7 +127,7 @@ After this, I helped build Skybox Labs’ services and DevOps team. I joined the
 worked to improve engineering efficiency and improve workows, particularly around testing and
 automation.
 - Provided leadership, mentoring, and guidance
-- Contribute to planning and development
+- Contributed to planning and development
 - Built and maintained highly available services
 - Trained colleagues to improve testing initiatives
 
