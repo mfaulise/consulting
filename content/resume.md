@@ -15,7 +15,7 @@ categories = [
 
 I have over 20 years of experience developing software, solving problems, and building great
 teams. I focus on team building, productivity, quality, and communication. In my next role, I’m
-looking for a challenge that ts my broad range of skills.
+looking for a challenge that fits my broad range of skills.
 
 # Summary
 ## Leadership (15 years)
@@ -46,7 +46,7 @@ LiveOps, DevOps, and Infrastructure
 
 **Dec 2023 – present**
 
-As a freelance consultant, I solve technical problems that directly impact my clients’ business
+As a freelance consultant, I solve technical problems directly impacting my clients’ business
 concerns. I work closely with these clients to understand their requirements, plan solutions,
 implement them, and design training and documentation to assist with future development and
 maintenance. I focus on leveling up the organization’s technical competence to compete in a
@@ -80,9 +80,9 @@ rst two milestones.
 
 **Jan 2022 – Sept 2022**
 
-Aural Analytics hired me to help their data scientists author highly eective enterprise code,
+Aural Analytics hired me to help their data scientists author highly effective enterprise code,
 improve automation, and build better testing solutions.
-- Improve the eectiveness of the Data Scientists
+- Improve the effectiveness of the Data Scientists
 - Training in areas of code quality, testing, and automation
 
 **Technologies**: Python, AWS, Cloud Formation, Docker, Gitlab, and more
@@ -94,7 +94,7 @@ improve automation, and build better testing solutions.
 I was hired as part of the Forge team and was responsible for building, maintaining, and
 monitoring tools and services.
 - Python Development
-- Build and congure Kubernetes/Helm Deployments
+- Build and configure Kubernetes/Helm Deployments
 - Terraform modications
 - Participate in on-call rotation
 
@@ -124,7 +124,7 @@ FedRamp and IL5.
 As a lead service engineer, I built the backend for one of their independent titles, Lethal Tactics.
 Then, I led the team to create a Crossplay peer-to-peer match-making service for Killer Instinct.
 After this, I helped build Skybox Labs’ services and DevOps team. I joined the Halo team and
-worked to improve engineering eciency and improve workows, particularly around testing and
+worked to improve engineering efficiency and improve workows, particularly around testing and
 automation.
 - Provided leadership, mentoring, and guidance
 - Contribute to planning and development
@@ -166,5 +166,5 @@ then.
 Advanced Diploma in Computer Programming
 
 # Licenses & certications
-### AWS Certied Security - Specialty (SCS)
+### AWS Certified Security - Specialty (SCS)
 Credential ID SS81QMK13FVQQT91
