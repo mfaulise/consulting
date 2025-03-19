@@ -153,7 +153,7 @@ and more
 
 The first half of my career was spent mostly in the game industry. I started as a gameplay
 engineer and moved into networking, multiplayer, and eventually into server and infrastructure
-work. My rst lead role was in 2006, and I have been a tech lead or manager on and o since
+work. My first lead role was in 2006, and I have been a tech lead or manager on and off since
 then.
 
 **Technologies**: C++, C#, Python, Java, Javascript, ActionScript 3, PHP, Node.js, and more.
