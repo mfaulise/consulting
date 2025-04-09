@@ -66,7 +66,7 @@ important, which is where training becomes invaluable.
 
 I was hired as a technical director. I oversaw the engineering department of Star Fort Games. I
 was asked to step in and act as the TD for a large Arctic 7 project and helped them deliver their
-rst two milestones.
+first two milestones.
 - Team building
 - Career Management
 - Stang
